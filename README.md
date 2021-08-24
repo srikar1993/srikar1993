@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Srikar Madhavapeddy
+- 👀 I’m interested in Full Stack Web Devlopment using Django & Spring Boot
+- 🌱 I’m currently learning Microservices
+- 📫 Reach me on mail: srikar.madhavapeddy@gmail.com
